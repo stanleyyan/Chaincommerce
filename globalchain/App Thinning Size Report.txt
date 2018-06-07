@@ -1,49 +1,49 @@
 
-App Thinning Size Report for All Variants of MobikulMPMagento2
+App Thinning Size Report for All Variants of Chaincommerce
 
-Variant: MobikulMPMagento2-iPad (4th generation)-etc.ipa
+Variant: Chaincommerce-iPad (4th generation)-etc.ipa
 Supported devices: iPad (3rd generation) and iPad (4th generation)
 App + On Demand Resources size: 15.4 MB compressed, 36.4 MB uncompressed
 App size: 15.4 MB compressed, 36.4 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: MobikulMPMagento2-iPad 2-etc.ipa
+Variant: Chaincommerce-iPad 2-etc.ipa
 Supported devices: iPad 2 and iPad mini
 App + On Demand Resources size: 15.4 MB compressed, 36.4 MB uncompressed
 App size: 15.4 MB compressed, 36.4 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: MobikulMPMagento2-iPad Pro (12.9-inch)-etc.ipa
+Variant: Chaincommerce-iPad Pro (12.9-inch)-etc.ipa
 Supported devices: iPad (5th generation), iPad (6th generation), iPad Air, iPad Air 2, iPad Pro (10.5-inch), iPad Pro (12.9-inch), iPad Pro (12.9-inch) (2nd generation), iPad Pro (9.7-inch), iPad mini 2, iPad mini 3, and iPad mini 4
 App + On Demand Resources size: 14.1 MB compressed, 37.2 MB uncompressed
 App size: 14.1 MB compressed, 37.2 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: MobikulMPMagento2-iPhone 6 Plus-etc.ipa
+Variant: Chaincommerce-iPhone 6 Plus-etc.ipa
 Supported devices: iPhone 6 Plus, iPhone 6s Plus, iPhone 7 Plus, iPhone 8 Plus, and iPhone X
-App + On Demand Resources size: 14.2 MB compressed, 37.3 MB uncompressed
-App size: 14.2 MB compressed, 37.3 MB uncompressed
+App + On Demand Resources size: 14.1 MB compressed, 37.3 MB uncompressed
+App size: 14.1 MB compressed, 37.3 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: MobikulMPMagento2-iPhone SE-etc.ipa
+Variant: Chaincommerce-iPhone SE-etc.ipa
 Supported devices: iPhone 5s, iPhone 6, iPhone 6s, iPhone 7, iPhone 8, iPhone SE, and iPod touch (6th generation)
 App + On Demand Resources size: 14.1 MB compressed, 37.2 MB uncompressed
 App size: 14.1 MB compressed, 37.2 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: MobikulMPMagento2-iPod touch-etc.ipa
+Variant: Chaincommerce-iPod touch-etc.ipa
 Supported devices: iPhone 4S, iPhone 5, iPhone 5c, and iPod touch
 App + On Demand Resources size: 15.4 MB compressed, 36.4 MB uncompressed
 App size: 15.4 MB compressed, 36.4 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: MobikulMPMagento2.ipa
+Variant: Chaincommerce.ipa
 Supported devices: Universal
 App + On Demand Resources size: 26.8 MB compressed, 70.4 MB uncompressed
 App size: 26.8 MB compressed, 70.4 MB uncompressed

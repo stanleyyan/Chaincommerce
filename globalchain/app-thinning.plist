@@ -4,22 +4,22 @@
 <dict>
 	<key>variants</key>
 	<dict>
-		<key>Apps/MobikulMPMagento2-iPad (4th generation)-etc.ipa</key>
+		<key>Apps/Chaincommerce-iPad (4th generation)-etc.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
 			<integer>2147483648</integer>
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>15416156</integer>
+			<integer>15407636</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>15416156</integer>
+			<integer>15407636</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>36406065</integer>
+			<integer>36388239</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>36406065</integer>
+			<integer>36388239</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -47,22 +47,22 @@
 				<string>iPad (4th generation)</string>
 			</array>
 		</dict>
-		<key>Apps/MobikulMPMagento2-iPad 2-etc.ipa</key>
+		<key>Apps/Chaincommerce-iPad 2-etc.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
 			<integer>2147483648</integer>
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>15389632</integer>
+			<integer>15381123</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>15389632</integer>
+			<integer>15381123</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>36377616</integer>
+			<integer>36359790</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>36377616</integer>
+			<integer>36359790</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -92,22 +92,22 @@
 				<string>iPad mini</string>
 			</array>
 		</dict>
-		<key>Apps/MobikulMPMagento2-iPad Pro (12.9-inch)-etc.ipa</key>
+		<key>Apps/Chaincommerce-iPad Pro (12.9-inch)-etc.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
 			<integer>2147483648</integer>
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>14107355</integer>
+			<integer>14098032</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>14107355</integer>
+			<integer>14098032</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>37227664</integer>
+			<integer>37226574</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>37227664</integer>
+			<integer>37226574</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -173,22 +173,22 @@
 				<string>iPad mini 4</string>
 			</array>
 		</dict>
-		<key>Apps/MobikulMPMagento2-iPhone 6 Plus-etc.ipa</key>
+		<key>Apps/Chaincommerce-iPhone 6 Plus-etc.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
 			<integer>2147483648</integer>
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>14151723</integer>
+			<integer>14142362</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>14151723</integer>
+			<integer>14142362</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>37274995</integer>
+			<integer>37273905</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>37274995</integer>
+			<integer>37273905</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -220,22 +220,22 @@
 				<string>iPhone X</string>
 			</array>
 		</dict>
-		<key>Apps/MobikulMPMagento2-iPhone SE-etc.ipa</key>
+		<key>Apps/Chaincommerce-iPhone SE-etc.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
 			<integer>2147483648</integer>
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>14076834</integer>
+			<integer>14067464</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>14076834</integer>
+			<integer>14067464</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>37196113</integer>
+			<integer>37195023</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>37196113</integer>
+			<integer>37195023</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -271,22 +271,22 @@
 				<string>iPod touch (6th generation)</string>
 			</array>
 		</dict>
-		<key>Apps/MobikulMPMagento2-iPod touch-etc.ipa</key>
+		<key>Apps/Chaincommerce-iPod touch-etc.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
 			<integer>2147483648</integer>
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>15385674</integer>
+			<integer>15377175</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>15385674</integer>
+			<integer>15377175</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>36374971</integer>
+			<integer>36357145</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>36374971</integer>
+			<integer>36357145</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -314,22 +314,22 @@
 				<string>iPod touch</string>
 			</array>
 		</dict>
-		<key>Apps/MobikulMPMagento2.ipa</key>
+		<key>Apps/Chaincommerce.ipa</key>
 		<dict>
 			<key>limitUncompressedInitialPrefetchedODR</key>
 			<integer>2147483648</integer>
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>26788713</integer>
+			<integer>26779541</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>26788713</integer>
+			<integer>26779541</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>70397111</integer>
+			<integer>70379637</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>70397111</integer>
+			<integer>70379637</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
